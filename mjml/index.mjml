@@ -12,8 +12,13 @@
       <mj-class name="d-lieu" font-size="16px" line-height="20px" color="#626262"/>
       <mj-class name="d-adress" font-size="13px" line-height="15px" color="#FFFFFF"/>
       <mj-class name="d-admin" align="center" font-size="12px" line-height="16px" color="#626262"/>
+      <mj-class name="c1" color="#343f92"></mj-class>
     </mj-attributes>
     <mj-style>
+      .c1{
+          color: #343f92;
+      }
+      
       @media(max-width:480px){
           .m-footer div{
               text-align: center !important;
@@ -70,12 +75,12 @@
     </mj-section>//- Comment s'y rendre
     <mj-section background-color="#dfdfdf">
       <mj-column width="480px">
-        <mj-text font-size="18px" font-weight="700" color="#343f92" mj-class="d-lieu" text-transform="uppercase">Comment s'y rendre ?</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong style="color:#343f92">Accès Métro :</strong> Ligne 2 - station Tourcoing Centre.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong style="color:#343f92">Accès Tramway :</strong> Terminus Tourcoing Centre.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong style="color:#343f92">Accès Bus :</strong> Gare routière de Tourcoing.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong style="color:#343f92">Accès Train :</strong> Gare de Tourcoing puis station de Métro Tourcoing Centre</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong style="color:#343f92">Accès Voiture :</strong> Tourcoing centre.</mj-text>
+        <mj-text font-size="18px" font-weight="700" mj-class="d-lieu c1" text-transform="uppercase">Comment s'y rendre ?</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Métro :</strong> Ligne 2 - station Tourcoing Centre.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Tramway :</strong> Terminus Tourcoing Centre.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Bus :</strong> Gare routière de Tourcoing.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Train :</strong> Gare de Tourcoing puis station de Métro Tourcoing Centre</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Voiture :</strong> Tourcoing centre.</mj-text>
         <mj-spacer height="10px"/>
       </mj-column>
     </mj-section>
