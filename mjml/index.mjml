@@ -12,14 +12,16 @@
       <mj-class name="d-lieu" font-size="16px" line-height="20px" color="#626262"/>
       <mj-class name="d-adress" font-size="13px" line-height="15px" color="#FFFFFF"/>
       <mj-class name="d-admin" align="center" font-size="12px" line-height="16px" color="#626262"/>
-      <mj-class name="c1" color="#343f92"></mj-class>
+      <mj-class name="c-F" color="#343f92"/>
+      <mj-class name="bg-F" background-color="#343f92"/>
     </mj-attributes>
+    <mj-breakpoint width="500px"></mj-breakpoint>
     <mj-style>
-      .c1{
+      .c-F{
           color: #343f92;
       }
       
-      @media(max-width:480px){
+      @media(max-width:500px){
           .m-footer div{
               text-align: center !important;
               width: 100% !important;
@@ -75,28 +77,28 @@
     </mj-section>//- Comment s'y rendre
     <mj-section background-color="#dfdfdf">
       <mj-column width="480px">
-        <mj-text font-size="18px" font-weight="700" mj-class="d-lieu c1" text-transform="uppercase">Comment s'y rendre ?</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Métro :</strong> Ligne 2 - station Tourcoing Centre.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Tramway :</strong> Terminus Tourcoing Centre.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Bus :</strong> Gare routière de Tourcoing.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Train :</strong> Gare de Tourcoing puis station de Métro Tourcoing Centre</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c1">Accès Voiture :</strong> Tourcoing centre.</mj-text>
+        <mj-text font-size="18px" font-weight="700" mj-class="d-lieu c-F" text-transform="uppercase">Comment s'y rendre ?</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c-F">Accès Métro :</strong> Ligne 2 - station Tourcoing Centre.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c-F">Accès Tramway :</strong> Terminus Tourcoing Centre.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c-F">Accès Bus :</strong> Gare routière de Tourcoing.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c-F">Accès Train :</strong> Gare de Tourcoing puis station de Métro Tourcoing Centre</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu"><strong class="c-F">Accès Voiture :</strong> Tourcoing centre.</mj-text>
         <mj-spacer height="10px"/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#1372b8">
+    <mj-section background-color="#1372b8" padding-bottom="40px" border-radius="0 0 20px 20px">
       <mj-column width="265px">
         <mj-text padding-top="0" padding-bottom="0" font-size="16px" font-weight="900" color="#FFFFFF" css-class="m-footer">ECOSUP CAMPUS</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="d-adress" color="#FFFFFF" css-class="m-footer">17 Place Charles et Albert Roussel,</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="d-adress" css-class="m-footer">59200 TOURCOING</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="d-adress" css-class="m-footer"><a style="text-decoration:none;color:#ffffff" href="tel:0320700606">03.20.70.06.06</a></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="d-adress" css-class="m-footer"><a style="font-weight:700;text-decoration:none;color:#ffffff" href="tel:0320700606">03.20.70.06.06</a></mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="d-adress" css-class="m-footer"><a style="text-decoration:none;color:#ffffff" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
       </mj-column>
       <mj-column width="265px">
-        <mj-social padding-top="0" padding-bottom="0" align="right" icon-size="35px" mode="horizontal" css-class="m-footer1">
-          <mj-social-element background-color="#343f92" name="facebook" href="https://www.facebook.com/EcosupCamp"></mj-social-element>
-          <mj-social-element background-color="#343f92" name="instagram" href="https://www.instagram.com/ecosup.campus/"></mj-social-element>
-          <mj-social-element background-color="#343f92" name="linkedin" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
+        <mj-social padding-top="0" padding-bottom="0" align="right" inner-padding="10px" icon-size="30px" mode="horizontal" css-class="m-footer1">
+          <mj-social-element mj-class="bg-F" name="facebook" href="https://www.facebook.com/EcosupCamp"></mj-social-element>
+          <mj-social-element mj-class="bg-F" name="instagram" href="https://www.instagram.com/ecosup.campus/"></mj-social-element>
+          <mj-social-element mj-class="bg-F" name="linkedin" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
