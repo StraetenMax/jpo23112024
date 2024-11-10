@@ -12,15 +12,15 @@
       <mj-class name="T-2" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" line-height="16px" font-weight="400"/>
       <mj-class name="cT+1" color="#14141f"/>
       <mj-class name="cT+0" color="#626262"/>
-      <mj-class name="c-0" color="#c31718"/>
-      <mj-class name="bg-0" background-color="#c31718"/>
-      <mj-class name="c+1" color="#a01a1d"/>
-      <mj-class name="bg+1" background-color="#a01a1d"/>
+      <mj-class name="c-0" color="#1372b8"/>
+      <mj-class name="bg-0" background-color="#1372b8"/>
+      <mj-class name="c+1" color="#0c4873"/>
+      <mj-class name="bg+1" background-color="#0c4873"/>
     </mj-attributes>
     <mj-breakpoint width="500px"></mj-breakpoint>
     <mj-style>
       .c11{
-          color: #a01a1d;
+          color: #0c4873;
       }
       .cT00{
           color: #626262;
@@ -79,13 +79,13 @@
     <mj-section background-color="#ffffff">
       <mj-group>
         <mj-column width="50%" padding="8px">
-          <mj-image align="right" padding="0" src="https://i.ibb.co/NNTT0VM/Helenejpo25052024.jpg" width="120px" alt="Hélène Salmon, responsable pédagogique Ecosup Hôtellerie"/>
+          <mj-image align="right" padding="0" src="https://i.ibb.co/ZJBt18s/Jeromejpo25052024.jpg" width="120px" alt="Jérome Poulain, responsable pédagogique Ecosup Santé"/>
         </mj-column>
         <mj-column width="50%" padding="8px">
           <mj-text padding-top="20px" padding-left="0" padding-right="0" mj-class="T cT+1">À Samedi !</mj-text>
-          <mj-text padding="0" mj-class="T cT+1"><strong>Hélène <span style="text-transform:uppercase">Salmon</span></strong></mj-text>
+          <mj-text padding="0" mj-class="T cT+1"><strong>Jérôme <span style="text-transform:uppercase">Poulain</span></strong></mj-text>
           <mj-text padding="0" mj-class="T cT+1">Responsable pédagogique</mj-text>
-          <mj-text padding="0" mj-class="T cT+1">Ecosup Hôtellerie</mj-text>
+          <mj-text padding="0" mj-class="T cT+1">Ecosup Santé - Petite Enfance</mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -97,48 +97,54 @@
     <mj-section background-color="#ffffff" padding-bottom="40px"> 
       <mj-group width="480px">
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/qNZP5dP/LogoA14.jpg" alt="logo Hotel Moustache"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/5nT0VG5/logo5.jpg" alt="logo Danone"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/VHwDR7d/LogoA13.jpg" alt="logo des 3 Brasseurs"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3frZQSL/logo4.jpg" alt="logo Snipes"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/vz8Rrt2/LogoA12.jpg" alt="logo Fée Maison"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/9Zn8sFY/logo3.jpg" alt="logo l'incroyable"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/z5ZgwTw/LogoA11.jpg" alt="logo L'Hermitage Gantois"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Lewis"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/L85ZfG1/LogoA10.jpg" alt="logo Best Western"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1nyt9QW/logo1.jpg" alt="logo Carefour"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/n6nKRBn/LogoA9.jpg" alt="logo Small Luxury Hotels"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1JtDdjZ/logo10.jpg" alt="logo D2R"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/ZXr5mLx/LogoA8.jpg" alt="logo Hotel Najeti"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/r5CSJTZ/logo9.jpg" alt="logo Boulanger Electroménager"/>
+        </mj-column>
+        <mj-column padding="4px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1fmQhDB/logo8.jpg" alt="logo Intermarché"/>
         </mj-column>
       </mj-group>
       <mj-group width="480px">
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/VYL89kZ/LogoA7.jpg" alt="logo Sodexo"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues Telecom"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/DKZDvtz/LogoA6.jpg" alt="logo Couvent des Minimes"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/vzfDp26/logo6.jpg" alt="logo Norauto"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/zr8TQyS/LogoA5.jpg" alt="logo Hotel HLE"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/JtjjLqW/logo16.jpg" alt="logo des magasins U"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/QXFVhNW/LogoA4.jpg" alt="logo Carlton Hôtel"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/6PXjrWM/logo12.jpg" alt="logo Bureau Vallée"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/gw0vV3g/LogoA3.jpg" alt="logo L'Arbre Voyageur"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/gMT39C5/logo14.jpg" alt="logo Vaporama"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/8z2m91y/LogoA2.jpg" alt="logo Global Hôtel Alliance"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/rwCsPwv/logo13.jpg" alt="logo B&amp;M"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/pRydwkm/LogoA1.jpg" alt="logo Accor"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
+        </mj-column>
+        <mj-column padding="4px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
         </mj-column>
       </mj-group>
     </mj-section>//- Comment s'y rendre
