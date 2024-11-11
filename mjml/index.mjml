@@ -12,15 +12,15 @@
       <mj-class name="T-2" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" line-height="16px" font-weight="400"/>
       <mj-class name="cT+1" color="#14141f"/>
       <mj-class name="cT+0" color="#626262"/>
-      <mj-class name="c-0" color="#787fbd"/>
-      <mj-class name="bg-0" background-color="#787fbd"/>
-      <mj-class name="c+1" color="#1f3c90"/>
-      <mj-class name="bg+1" background-color="#1f3c90"/>
+      <mj-class name="c-0" color="#f088b6"/>
+      <mj-class name="bg-0" background-color="#f088b6"/>
+      <mj-class name="c+1" color="#ec619f"/>
+      <mj-class name="bg+1" background-color="#ec619f"/>
     </mj-attributes>
     <mj-breakpoint width="500px"></mj-breakpoint>
     <mj-style>
       .c11{
-          color: #1f3c90;
+          color: #ec619f;
       }
       .cT00{
           color: #626262;
@@ -47,7 +47,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" border-radius="20px 20px 0 0">
       <mj-column>
-        <mj-image width="150px" src="https://i.ibb.co/TYQRbZT/restaurant-Ecosup092024.png" alt="logo Ecosup Hotellerie"></mj-image>
+        <mj-image width="200px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt="logo Ecosup Diététique"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -60,32 +60,31 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="480px">
-        <mj-text align="left" padding-bottom="0" mj-class="T+1 c-0" text-transform="uppercase">Formations BTS, Bachelor et Mastère</mj-text>
-        <mj-text align="left" padding-top="0" mj-class="T+2 c+1">Ecosup Tourisme vous ouvre ses Portes !</mj-text>
+        <mj-text align="left" padding-bottom="0" mj-class="T+1 c-0" text-transform="uppercase">Formations BTS et Bachelor</mj-text>
+        <mj-text align="left" padding-top="0" mj-class="T+2 c+1">Ecosup Diététique vous ouvre ses Portes !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="480px">
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><span style="font-weight:700;">{{ contact.PRENOM }}</span>, les métiers du Tourisme vous intéressent ?</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Alors si vous souhaitez intégrer ce secteur et vivre une <span style="font-weight:700;">formation motivante en alternance</span>... venez nous rejoindre </mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><span style="font-weight:700;">{{ contact.PRENOM }}</span>, les métiers de la Diététique vous intéressent ?</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Alors si vous souhaitez intégrer ce secteur et vivre une <span style="font-weight:700;">formation motivante</span>... venez nous rejoindre </mj-text>
         <mj-text align="center" mj-class="T+1 c+1">Samedi 23 novembre de 9h30 à 13h.</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Qu'il s'agisse de vous réorienter, de vous professionnaliser ou de devenir expert ?</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Vous trouverez auprès de nos équipes, <span style="font-weight:700;">toutes les réponses à vos questions</span> qu'elles soient d'ordre éducatif, administratif ou pratique.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Alors venez découvrir les <span style="font-weight:700;">équipements de notre campus</span> et rencontrer nos <span style="font-weight:700;">intervenants, professionnels reconnus</span>.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Alors venez découvrir les <span style="font-weight:700;">équipements de notre campus</span> et rencontrer nos <span style="font-weight:700;">intervenants, des professionnels reconnus</span>.</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Une invitation à ne pas manquer pour devenir l'acteur de votre avenir et <span style="font-weight:700;">gagner en compétences</span> !</mj-text>
-        <mj-button href="https://philgraph.com/wp-content/uploads/2024/11/jpo23112024.ics">Ajoutez à votre agenda<img src="#" href="https://philgraph.com/wp-content/uploads/2024/11/jpo23112024.ics"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-group>
         <mj-column width="50%" padding="8px">
-          <mj-image align="right" padding="0" src="https://i.ibb.co/wWHLFJT/Clementjpo25052024.jpg" width="120px" alt="Clément Duhamel responsable pédagogique Ecosup Tourisme "/>
+          <mj-image align="right" padding="0" src="https://i.ibb.co/ZJBt18s/Jeromejpo25052024.jpg" width="120px" alt="Jérome Poulain, responsable pédagogique Ecosup Santé"/>
         </mj-column>
         <mj-column width="50%" padding="8px">
           <mj-text padding-top="20px" padding-left="0" padding-right="0" mj-class="T cT+1">À Samedi !</mj-text>
-          <mj-text padding="0" mj-class="T cT+1"><strong>Clément <span style="text-transform:uppercase">Duhamel</span></strong></mj-text>
+          <mj-text padding="0" mj-class="T cT+1"><strong>Jérôme <span style="text-transform:uppercase">Poulain</span></strong></mj-text>
           <mj-text padding="0" mj-class="T cT+1">Responsable pédagogique</mj-text>
-          <mj-text padding="0" mj-class="T cT+1">Ecosup Tourisme</mj-text>
+          <mj-text padding="0" mj-class="T cT+1">Ecosup Santé - Petite Enfance</mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -97,54 +96,54 @@
     <mj-section background-color="#ffffff" padding-bottom="40px"> 
       <mj-group width="480px">
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/PWDs9MH/Logo-Tourisme16.jpg" alt="logo Bladia"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/5nT0VG5/logo5.jpg" alt="logo Danone"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/qBQ9H6X/Logo-Tourisme15.jpg" alt="logo DK Park"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3frZQSL/logo4.jpg" alt="logo Snipes"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/m0tzZDw/Logo-Tourisme14.jpg" alt="logo Voyages autour de nous"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/9Zn8sFY/logo3.jpg" alt="logo l'incroyable"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TkLdSDV/Logo-Tourisme13.jpg" alt="logo Team Break"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Lewis"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/sCNF16c/Logo-Tourisme12.jpg" alt="logo The P"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1nyt9QW/logo1.jpg" alt="logo Carefour"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/bKbjkw1/Logo-Tourisme11.jpg" alt="logo Hauts-de-France"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1JtDdjZ/logo10.jpg" alt="logo D2R"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TcMKrBd/Logo-Tourisme10.jpg" alt="logo coeur de Flandres "/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/r5CSJTZ/logo9.jpg" alt="logo Boulanger Electroménager"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3TyNHFT/Logo-Tourisme09.jpg" alt="logo Hôtel Saint Maurice"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1fmQhDB/logo8.jpg" alt="logo Intermarché"/>
         </mj-column>
       </mj-group>
       <mj-group width="480px">
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/fNjtWMS/Logo-Tourisme08.jpg" alt="logo Mariot voyages"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues Telecom"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/ggnx3PF/Logo-Tourisme07.jpg" alt="logo SC Travel"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/vzfDp26/logo6.jpg" alt="logo Norauto"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/7Kt5FTX/Logo-Tourisme06.jpg" alt="logo civi-ling"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/JtjjLqW/logo16.jpg" alt="logo des magasins U"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1q7Rs5C/Logo-Tourisme05.jpg" alt="logo Planète Crosière"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/6PXjrWM/logo12.jpg" alt="logo Bureau Vallée"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/Gp2p7qh/Logo-Tourisme04.jpg" alt="logo Selectour voyages"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/gMT39C5/logo14.jpg" alt="logo Vaporama"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/QNwzyQs/Logo-Tourisme03.jpg" alt="logo Cap 5 voyages"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/rwCsPwv/logo13.jpg" alt="logo B&amp;M"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/qJRjHm9/Logo-Tourisme02.jpg" alt="logo FVH"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/ZVLJ40K/Logo-Tourisme01.jpg" alt="logo Port Boulogne Calais"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
         </mj-column>
       </mj-group>
     </mj-section>//- Comment s'y rendre
