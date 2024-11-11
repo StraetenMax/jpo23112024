@@ -12,15 +12,15 @@
       <mj-class name="T-2" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12px" line-height="16px" font-weight="400"/>
       <mj-class name="cT+1" color="#14141f"/>
       <mj-class name="cT+0" color="#626262"/>
-      <mj-class name="c-0" color="#76b82a"/>
-      <mj-class name="bg-0" background-color="#76b82a"/>
-      <mj-class name="c+1" color="#007d3e"/>
-      <mj-class name="bg+1" background-color="#007d3e"/>
+      <mj-class name="c-0" color="#f088b6"/>
+      <mj-class name="bg-0" background-color="#f088b6"/>
+      <mj-class name="c+1" color="#ec619f"/>
+      <mj-class name="bg+1" background-color="#ec619f"/>
     </mj-attributes>
     <mj-breakpoint width="500px"></mj-breakpoint>
     <mj-style>
       .c11{
-          color: #007d3e;
+          color: #ec619f;
       }
       .cT00{
           color: #626262;
@@ -47,7 +47,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" border-radius="20px 20px 0 0">
       <mj-column>
-        <mj-image width="200px" src="https://i.ibb.co/ZG9PhKp/supveto-signature.png" alt="logo Supveto Lille"></mj-image>
+        <mj-image width="200px" src="https://i.ibb.co/yhgrY2Q/ecosup-Dietetique-signature.png" alt="logo Ecosup Diététique"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -60,18 +60,18 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="480px">
-        <mj-text align="left" padding-bottom="0" mj-class="T+1 c-0" text-transform="uppercase">Formations ASV et  Bachelor</mj-text>
-        <mj-text align="left" padding-top="0" mj-class="T+2 c+1">Supvéto vous ouvre ses Portes!</mj-text>
+        <mj-text align="left" padding-bottom="0" mj-class="T+1 c-0" text-transform="uppercase">Formations BTS et Bachelor</mj-text>
+        <mj-text align="left" padding-top="0" mj-class="T+2 c+1">Ecosup Diététique vous ouvre ses Portes !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="480px">
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><span style="font-weight:700;">{{ contact.PRENOM }}</span>, les métiers de la Santé animale vous intéressent ?</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Alors si vous souhaitez intégrer ce secteur et vivre une <span style="font-weight:700;">formation motivante, initiale ou en alternance</span>... venez nous rejoindre </mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1"><span style="font-weight:700;">{{ contact.PRENOM }}</span>, les métiers de la Diététique vous intéressent ?</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Alors si vous souhaitez intégrer ce secteur et vivre une <span style="font-weight:700;">formation motivante</span>... venez nous rejoindre </mj-text>
         <mj-text align="center" mj-class="T+1 c+1">Samedi 23 novembre de 9h30 à 13h.</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Qu'il s'agisse de vous réorienter, de vous professionnaliser ou de devenir expert ?</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Vous trouverez auprès de nos équipes, <span style="font-weight:700;">toutes les réponses à vos questions</span> qu'elles soient d'ordre éducatif, administratif ou pratique.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Alors venez découvrir les <span style="font-weight:700;">équipements de notre campus</span> et rencontrer nos <span style="font-weight:700;">intervenants, des professionnels reconnus</span>.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Alors venez découvrir les <span style="font-weight:700;">équipements de notre campus</span> et rencontrer nos <span style="font-weight:700;">intervenants, professionnels reconnus</span>.</mj-text>
         <mj-text padding-top="0" padding-bottom="0" mj-class="T cT+1">Une invitation à ne pas manquer pour devenir l'acteur de votre avenir et <span style="font-weight:700;">gagner en compétences</span> !</mj-text>
       </mj-column>
     </mj-section>
@@ -80,16 +80,18 @@
         <mj-button vertical-align="middle" border-radius="5px" mj-class="T bg+1" color="#ffffff" href="https://philgraph.com/wp-content/uploads/2024/11/jpo23112024.ics"><span style="font-weight:700;">Ajoutez à votre agenda</span> &nbsp;&nbsp;&nbsp;<img style="vertical-align:middle;" width="30px" src="https://i.ibb.co/F3gpDZ3/icon-Blanc-Calendrier.png" href="https://philgraph.com/wp-content/uploads/2024/11/jpo23112024.ics"/></mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff"><mj-group>
-      <mj-column width="50%" padding="8px">
-        <mj-image align="right" padding="0" src="https://i.ibb.co/G3fJzLp/Juliejpo25052024.jpg" width="120px" alt="Julie Kokocinski, responsable pédagogique Supveto Lille"/>
-      </mj-column>
-      <mj-column width="50%" padding="8px">
-        <mj-text padding-top="20px" padding-left="0" padding-right="0" mj-class="T cT+1">À Samedi !</mj-text>
-        <mj-text padding="0" mj-class="T cT+1"><strong>Julie <span style="text-transform:uppercase">Kokocinski</span></strong></mj-text>
-        <mj-text padding="0" mj-class="T cT+1">Responsable pédagogique</mj-text>
-        <mj-text padding="0" mj-class="T cT+1">Supveto Lille</mj-text>
-      </mj-column>
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column width="50%" padding="8px">
+          <mj-image align="right" padding="0" src="https://i.ibb.co/ZJBt18s/Jeromejpo25052024.jpg" width="120px" alt="Jérome Poulain, responsable pédagogique Ecosup Santé"/>
+        </mj-column>
+        <mj-column width="50%" padding="8px">
+          <mj-text padding-top="20px" padding-left="0" padding-right="0" mj-class="T cT+1">À Samedi !</mj-text>
+          <mj-text padding="0" mj-class="T cT+1"><strong>Jérôme <span style="text-transform:uppercase">Poulain</span></strong></mj-text>
+          <mj-text padding="0" mj-class="T cT+1">Responsable pédagogique</mj-text>
+          <mj-text padding="0" mj-class="T cT+1">Ecosup Santé - Diététique</mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column width="480px">
@@ -99,36 +101,54 @@
     <mj-section background-color="#ffffff" padding-bottom="40px"> 
       <mj-group width="480px">
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/BjzPxXP/logo-Supveto10.jpg" alt="logo Clinique Vétérinaire"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/5nT0VG5/logo5.jpg" alt="logo Danone"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/s2pZHFf/logo-Supveto09.jpg" alt="logo AniCura"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3frZQSL/logo4.jpg" alt="logo Snipes"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/r6kmn81/logo-Supveto08.jpg" alt="logo Biotopia"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/9Zn8sFY/logo3.jpg" alt="logo l'incroyable"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/mFnZNt1/logo-Supveto07.jpg" alt="logo Clinique Vétérinaire"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Lewis"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/jrZ9y7j/logo-Supveto06.jpg" alt="logo LPA"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1nyt9QW/logo1.jpg" alt="logo Carefour"/>
+        </mj-column>
+        <mj-column padding="4px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1JtDdjZ/logo10.jpg" alt="logo D2R"/>
+        </mj-column>
+        <mj-column padding="4px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/r5CSJTZ/logo9.jpg" alt="logo Boulanger Electroménager"/>
+        </mj-column>
+        <mj-column padding="4px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1fmQhDB/logo8.jpg" alt="logo Intermarché"/>
         </mj-column>
       </mj-group>
       <mj-group width="480px">
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/PwXYWZC/logo-Supveto05.jpg" alt="logo Clinique Vétérinaire de Linselles"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues Telecom"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/NLgM4B7/logo-Supveto04.jpg" alt="logo Vétérinaire Pommery"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/vzfDp26/logo6.jpg" alt="logo Norauto"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/tbhMMH6/logo-Supveto03.jpg" alt="logo Clinique Vétérinaire Porte des Weppes"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/JtjjLqW/logo16.jpg" alt="logo des magasins U"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/bgqVSsD/logo-Supveto02.jpg" alt="logo Lux Vet"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/6PXjrWM/logo12.jpg" alt="logo Bureau Vallée"/>
         </mj-column>
         <mj-column padding="4px">
-          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/QFWSt0w/logo-Supveto01.jpg" alt="logo Hôpital Vétérinaire des Laurentides"/>
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/gMT39C5/logo14.jpg" alt="logo Vaporama"/>
+        </mj-column>
+        <mj-column padding="4px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/rwCsPwv/logo13.jpg" alt="logo B&amp;M"/>
+        </mj-column>
+        <mj-column padding="4px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
+        </mj-column>
+        <mj-column padding="4px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3BkGVdJ/logo15.jpg" alt="logo Jeff de Bruges"/>
         </mj-column>
       </mj-group>
     </mj-section>//- Comment s'y rendre
