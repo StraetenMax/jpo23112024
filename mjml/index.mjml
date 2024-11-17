@@ -70,7 +70,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="480px">
-        <mj-text align="left" padding-bottom="0" mj-class="T+1 cT+1" text-transform="uppercase">Notre formation BTS</mj-text>
+        <mj-text align="left" padding-bottom="0" mj-class="T+1 cT+1" text-transform="uppercase">Notre formation BTS Professions Immobilières</mj-text>
         <mj-text align="left" padding-top="0" mj-class="T+2 c+1">Ecosup Immobilier vous ouvre ses Portes !</mj-text>
       </mj-column>
     </mj-section>
