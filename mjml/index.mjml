@@ -103,7 +103,7 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="40px"> 
-      <mj-group width="240px">
+      <mj-group width="480px">
         <mj-column padding="4px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/3CfWWxL/Logo-Assurance14.jpg" alt="logo couleur AXA assurance"/>
         </mj-column>
@@ -116,8 +116,6 @@
         <mj-column padding="4px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/1vDhhpM/Logo-Assurance11.jpg" alt="logo couleur Concilian"/>
         </mj-column>
-      </mj-group>
-      <mj-group width="240px">  
         <mj-column padding="4px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/xY71s8T/Logo-Assurance10.jpg" alt="logo couleur Mésange Prévoyance"/>
         </mj-column>
@@ -127,11 +125,11 @@
         <mj-column padding="4px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/KNS4FXx/Logo-Assurance08.jpg" alt="logo couleur Allianz assurance"/>
         </mj-column>
+      </mj-group>
+      <mj-group width="480px">
         <mj-column padding="4px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/s3Qyqv3/Logo-Assurance07.jpg" alt="logo couleur Swiss Life"/>
         </mj-column>
-      </mj-group>
-      <mj-group width="480px">
         <mj-column padding="4px">
           <mj-image padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/Qpm6jgs/Logo-Assurance06.jpg" alt="logo couleur Humanis Malakoff"/>
         </mj-column>
