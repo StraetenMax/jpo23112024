@@ -1,19 +1,40 @@
+-
+    const logosList = [
+        {
+            'image':'https://i.ibb.co/QYWDXym/logoSM06.jpg',
+            'alt':'logo couleur Centre Hospitalier de Roubaix'
+        },
+        {
+            'image':'https://i.ibb.co/VSRw1Vs/Logo-Diet01.jpg',
+            'alt':'logo couleur CHU Centre Hospitalier Universitaire Lille'
+        },
+        {
+            'image':'https://i.ibb.co/Ct8Xsns/Logo-Diet02.jpg',
+            'alt':'logo couleur Groupement des Hôpitaux de l\'Institut Catholique de Lille'
+        },
+        {
+            'image':'https://i.ibb.co/QCkJbWB/Logo-Diet03.jpg',
+            'alt':'logo couleur Centre Hospitalier de Valenciennes'
+        },
+        {
+            'image':'https://i.ibb.co/jwv0p04/Logo-Diet04.jpg',
+            'alt':'logo couleur Santé Attitude Clinique Villeneuve d\'Ascq'
+        },
+        {
+            'image':'https://i.ibb.co/6NDBYH5/Logo-Diet05.jpg',
+            'alt':'logo couleur Centre Hospitalier d\'Henin-Beaumont'
+        },
+        {
+            'image':'https://i.ibb.co/CsGZfh9/Logo-Diet06.jpg',
+            'alt':'logo couleur Clinéa'
+        }
+    ]
+
 mj-section(background-color="#ffffff" padding-bottom="0")
     mj-column(width="480px")
         mj-text(padding-bottom='0' padding-top='0' mj-class="T cT+1") #[span(style="font-weight:700") Entreprises partenaires] qui accueillent nos étudiants
 mj-section(background-color="#ffffff" padding-bottom="40px") 
     mj-group(width="480px")
-        mj-column(padding="4px")
-            mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/QYWDXym/logoSM06.jpg" alt="logo Centre Hospitalier de Roubaix")/
-        mj-column(padding="4px")
-            mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/VSRw1Vs/Logo-Diet01.jpg" alt="logo CHU Centre Hospitalier Universitaire")/
-        mj-column(padding="4px")
-            mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/Ct8Xsns/Logo-Diet02.jpg" alt="logo Groupement des Hôpitaux de l'Institut Catholique de Lille")/
-        mj-column(padding="4px")
-            mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/QCkJbWB/Logo-Diet03.jpg" alt="logo Centre Hospitalier de Valenciennes")/
-        mj-column(padding="4px")
-            mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/jwv0p04/Logo-Diet04.jpg" alt="logo Santé Attitude Clinique Villeneuve d'Ascq")/
-        mj-column(padding="4px")
-            mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/6NDBYH5/Logo-Diet05.jpg" alt="logo Centre Hospitalier d'Henin-Beaumont")/
-        mj-column(padding="4px")
-            mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src="https://i.ibb.co/CsGZfh9/Logo-Diet06.jpg" alt="logo Clinéa")/
+        each logo in logosList
+            mj-column(padding="4px")
+                mj-image(padding="0" border="none" fluid-on-mobile="true" width="150px" src=logo.image alt=logo.alt)/
